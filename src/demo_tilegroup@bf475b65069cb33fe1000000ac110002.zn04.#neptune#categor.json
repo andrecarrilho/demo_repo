@@ -1,0 +1,16 @@
+[
+  {
+    "guid": "BF475B65069CB33FE1000000AC110002",
+    "name": "DEMO_TILEGROUP",
+    "descr": "DEMO_TILEGROUP",
+    "sort": 0,
+    "back_type": "cards",
+    "tiles_row": 99,
+    "visible_all": "X",
+    "tiles_pr_row": "More",
+    "default_mostused": 0,
+    "fiori_style": "X",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

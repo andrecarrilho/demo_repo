@@ -1,0 +1,18 @@
+[
+  {
+    "field_id": "00114",
+    "file_name": "demo_flight.zn01.#neptune#_script.Init.js"
+  },
+  {
+    "field_id": "00115",
+    "file_name": "demo_flight.zn01.#neptune#_script.Functions.js"
+  },
+  {
+    "field_id": "00116",
+    "file_name": "demo_flight.zn01.#neptune#_script.noAppCache.js"
+  },
+  {
+    "field_id": "00117",
+    "file_name": "demo_flight.zn01.#neptune#_script.PhonegapEvents.js"
+  }
+]

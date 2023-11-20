@@ -1,0 +1,27 @@
+[
+  {
+    "guid": "7A495B656898FB14E1000000AC110002",
+    "name": "DEMO_TILE",
+    "applid": "DEMO_FLIGHT",
+    "activated": "true",
+    "tile_info": "DEMO_TILE",
+    "tile_title": "DEMO_TILE",
+    "tile_infostate": "None",
+    "sort": "00000",
+    "visible_all": "true",
+    "url_window": "false",
+    "sap_trans_window": "false",
+    "parent": "00000000000000000000000000000000",
+    "category": "00000000000000000000000000000000",
+    "timestamp": 0,
+    "url_alias": "00000000000000000000000000000000",
+    "no_action": "false",
+    "tilegroup": "00000000000000000000000000000000",
+    "back_width": "Small",
+    "action_type": "application",
+    "fiori_style": "X",
+    "msgno": "000",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

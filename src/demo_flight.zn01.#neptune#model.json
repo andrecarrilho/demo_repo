@@ -1,0 +1,44 @@
+[
+  {
+    "field_id": "00008",
+    "model_id": "00120",
+    "model": "MasterForm",
+    "send": "X"
+  },
+  {
+    "field_id": "00122",
+    "model_id": "00079",
+    "model": "formAdditionalInfo",
+    "receive": "X"
+  },
+  {
+    "field_id": "00122",
+    "model_id": "00127",
+    "model": "formAvailability",
+    "receive": "X"
+  },
+  {
+    "field_id": "00122",
+    "model_id": "00135",
+    "model": "tabBooking",
+    "receive": "X"
+  },
+  {
+    "field_id": "00135",
+    "model_id": "00200",
+    "model": "pieData",
+    "receive": "X"
+  },
+  {
+    "field_id": "00135",
+    "model_id": "00204",
+    "model": "colData",
+    "receive": "X"
+  },
+  {
+    "field_id": "00135",
+    "model_id": "00209",
+    "model": "barData",
+    "receive": "X"
+  }
+]

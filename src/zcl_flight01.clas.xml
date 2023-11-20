@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_FLIGHT01</CLSNAME>
+    <LANGU>E</LANGU>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>C_KEY_SEPARATOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Key field Separator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_BOOKINGS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get flight bookings</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_FLIGHTS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get flights list</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_FLIGHT_DETAIL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get flight details</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>IT_FLIGHTS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flights List</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>IT_SBOOK</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Bookings</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>WA_ADDITIONAL_INFO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Additional Info</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>WA_AVAILABILITY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Availability</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>WA_FLIGHT_DETAIL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Details</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>WA_SELECT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Selection Criteria</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BOOKINGS</CMPNAME>
+     <SCONAME>IW_CARR_ID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Carrier Id</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BOOKINGS</CMPNAME>
+     <SCONAME>IW_CONN_ID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Connection Id</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BOOKINGS</CMPNAME>
+     <SCONAME>IW_DEP_DATE</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Departure Date</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_FLIGHTS</CMPNAME>
+     <SCONAME>IW_CARRIER</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Airline Code</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_FLIGHT_DETAIL</CMPNAME>
+     <SCONAME>AJAX_VALUE</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Key</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

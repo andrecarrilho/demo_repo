@@ -1,0 +1,12 @@
+[
+  {
+    "app_type": "A",
+    "clsname": "ZCL_FLIGHT01",
+    "title": "Neptune Flight Demo App",
+    "descr": "Neptune Flight Demo App",
+    "descr_mc": "NEPTUNE FLIGHT DEMO APP",
+    "use_css_desktop": "X",
+    "library": "5",
+    "ui5_m": "X"
+  }
+]

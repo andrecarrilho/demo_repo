@@ -1,0 +1,62 @@
+[
+  {
+    "field_id": "00008",
+    "event": "ajaxError",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.MasterList.ajaxError.js"
+  },
+  {
+    "field_id": "00008",
+    "event": "ajaxSuccess",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.MasterList.ajaxSuccess.js"
+  },
+  {
+    "field_id": "00008",
+    "event": "itemPress",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.MasterList.itemPress.js"
+  },
+  {
+    "field_id": "00010",
+    "event": "confirm",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.MasterListInfoSetting.confirm.js"
+  },
+  {
+    "field_id": "00018",
+    "event": "liveChange",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.inFilterMaster.liveChange.js"
+  },
+  {
+    "field_id": "00021",
+    "event": "press",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.butMasterUpdate.press.js"
+  },
+  {
+    "field_id": "00032",
+    "event": "ajaxSuccess",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.oPageDetail.ajaxSuccess.js"
+  },
+  {
+    "field_id": "00121",
+    "event": "change",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.selectAUART.change.js"
+  },
+  {
+    "field_id": "00122",
+    "event": "ajaxError",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.Detail.ajaxError.js"
+  },
+  {
+    "field_id": "00122",
+    "event": "ajaxSuccess",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.Detail.ajaxSuccess.js"
+  },
+  {
+    "field_id": "00169",
+    "event": "press",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.oOverflowToolbarButton.press.js"
+  },
+  {
+    "field_id": "00172",
+    "event": "liveChange",
+    "file_name": "demo_flight.zn01.#neptune#evtscr.inFilterPassenger.liveChange.js"
+  }
+]

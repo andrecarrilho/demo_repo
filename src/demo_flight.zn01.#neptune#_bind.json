@@ -1,0 +1,50 @@
+[
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_FLIGHTS",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00032",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "u",
+    "binding": "WA_FLIGHT_DETAIL",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00079",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "u",
+    "binding": "WA_ADDITIONAL_INFO",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00120",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "u",
+    "binding": "WA_SELECT",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00127",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "u",
+    "binding": "WA_AVAILABILITY",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00135",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_SBOOK",
+    "binding_root_field_id": "00000"
+  }
+]

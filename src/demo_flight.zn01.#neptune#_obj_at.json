@@ -1,0 +1,1360 @@
+[
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "addMasterPage"
+  },
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setCustomHeader"
+  },
+  {
+    "field_id": "00006",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setSubHeader"
+  },
+  {
+    "field_id": "00007",
+    "version": "0001",
+    "attribute": "refresh",
+    "grouping": "Events",
+    "value": "getOnlineMasterList();"
+  },
+  {
+    "field_id": "00007",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "ajaxError",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "growing",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "growingScrollToLoad",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "growingThreshold",
+    "grouping": "Properties",
+    "value": "50"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "itemPress",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "mode",
+    "grouping": "Properties",
+    "value": "SingleSelectMaster"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "noDataText",
+    "grouping": "Properties",
+    "value": "No flights"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "setInitLoad",
+    "grouping": "Model",
+    "value": "online"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "InfoToolbar"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "attribute": "visible",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "confirm",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Options"
+  },
+  {
+    "field_id": "00011",
+    "version": "0001",
+    "attribute": "key",
+    "grouping": "Properties",
+    "value": "FLIGHTDATE"
+  },
+  {
+    "field_id": "00011",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Flight Date"
+  },
+  {
+    "field_id": "00012",
+    "version": "0001",
+    "attribute": "key",
+    "grouping": "Properties",
+    "value": "FLIGHTDATE"
+  },
+  {
+    "field_id": "00012",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Flight Date"
+  },
+  {
+    "field_id": "00013",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Price"
+  },
+  {
+    "field_id": "00014",
+    "version": "0001",
+    "attribute": "key",
+    "grouping": "Properties",
+    "value": "PRICE__GT__500"
+  },
+  {
+    "field_id": "00014",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "More than 500"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "{IT_FLIGHTS-INTRO}"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "number",
+    "grouping": "Properties",
+    "value": "{IT_FLIGHTS-PRICE}"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "numberState",
+    "grouping": "Properties",
+    "value": "Success"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "numberUnit",
+    "grouping": "Properties",
+    "value": "{IT_FLIGHTS-CURR}"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "{IT_FLIGHTS-TITLE}"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "type",
+    "grouping": "Properties",
+    "value": "Active"
+  },
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentMiddle"
+  },
+  {
+    "field_id": "00018",
+    "version": "0001",
+    "attribute": "liveChange",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00018",
+    "version": "0001",
+    "attribute": "placeholder",
+    "grouping": "Properties",
+    "value": "Search Connection"
+  },
+  {
+    "field_id": "00019",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00020",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentLeft"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://synchronize"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00022",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://group-2"
+  },
+  {
+    "field_id": "00022",
+    "version": "0001",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "MasterListInfoSetting.open();"
+  },
+  {
+    "field_id": "00023",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentMiddle"
+  },
+  {
+    "field_id": "00024",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00026",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentLeft"
+  },
+  {
+    "field_id": "00027",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://nav-back"
+  },
+  {
+    "field_id": "00027",
+    "version": "0001",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "AppCache.Back();"
+  },
+  {
+    "field_id": "00028",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentMiddle"
+  },
+  {
+    "field_id": "00029",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Flights"
+  },
+  {
+    "field_id": "00030",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00031",
+    "version": "0001",
+    "attribute": "densityAware",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00031",
+    "version": "0001",
+    "attribute": "height",
+    "grouping": "Properties",
+    "value": "32px"
+  },
+  {
+    "field_id": "00031",
+    "version": "0001",
+    "attribute": "src",
+    "grouping": "Properties",
+    "value": "/neptune/server/images/nsball.png"
+  },
+  {
+    "field_id": "00031",
+    "version": "0001",
+    "attribute": "styleClassVisibility",
+    "grouping": "Properties",
+    "value": "sapUiVisibleOnlyOnPhone"
+  },
+  {
+    "field_id": "00032",
+    "version": "0001",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00032",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "addDetailPage"
+  },
+  {
+    "field_id": "00072",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setCustomHeader"
+  },
+  {
+    "field_id": "00073",
+    "version": "0001",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "{WA_FLIGHT_DETAIL-AIRLINE},{WA_FLIGHT_DETAIL-CONNECTID}"
+  },
+  {
+    "field_id": "00073",
+    "version": "0001",
+    "attribute": "number",
+    "grouping": "Properties",
+    "value": "{WA_FLIGHT_DETAIL-PRICE}"
+  },
+  {
+    "field_id": "00073",
+    "version": "0001",
+    "attribute": "numberUnit",
+    "grouping": "Properties",
+    "value": "{WA_FLIGHT_DETAIL-CURR}"
+  },
+  {
+    "field_id": "00073",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "{WA_FLIGHT_DETAIL-CITYFROM},{WA_FLIGHT_DETAIL-CITYTO}"
+  },
+  {
+    "field_id": "00073",
+    "version": "0001",
+    "attribute": "titleActive",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00074",
+    "version": "0001",
+    "attribute": "active",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00074",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "date:SAPUserDefault"
+  },
+  {
+    "field_id": "00074",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{WA_FLIGHT_DETAIL-FLIGHTDATE}"
+  },
+  {
+    "field_id": "00074",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Departure Date"
+  },
+  {
+    "field_id": "00075",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "date:SAPUserDefault"
+  },
+  {
+    "field_id": "00075",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{WA_FLIGHT_DETAIL-ARRDATE}"
+  },
+  {
+    "field_id": "00075",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Arrival Date"
+  },
+  {
+    "field_id": "00076",
+    "version": "0001",
+    "attribute": "expandable",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00077",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://hint"
+  },
+  {
+    "field_id": "00079",
+    "version": "0001",
+    "attribute": "columnsM",
+    "grouping": "Properties",
+    "value": "2"
+  },
+  {
+    "field_id": "00079",
+    "version": "0001",
+    "attribute": "labelSpanM",
+    "grouping": "Properties",
+    "value": "4"
+  },
+  {
+    "field_id": "00079",
+    "version": "0001",
+    "attribute": "layout",
+    "grouping": "Properties",
+    "value": "ResponsiveGridLayout"
+  },
+  {
+    "field_id": "00079",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Trip Info"
+  },
+  {
+    "field_id": "00080",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Distance"
+  },
+  {
+    "field_id": "00081",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{WA_ADDITIONAL_INFO-DISTANCE},{WA_ADDITIONAL_INFO-UNIT}"
+  },
+  {
+    "field_id": "00091",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://notes"
+  },
+  {
+    "field_id": "00094",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00095",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentLeft"
+  },
+  {
+    "field_id": "00096",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentMiddle"
+  },
+  {
+    "field_id": "00097",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00103",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentLeft"
+  },
+  {
+    "field_id": "00104",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://nav-back"
+  },
+  {
+    "field_id": "00104",
+    "version": "0001",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "oApp.backDetail();"
+  },
+  {
+    "field_id": "00104",
+    "version": "0001",
+    "attribute": "styleClassVisibility",
+    "grouping": "Properties",
+    "value": "sapUiVisibleOnlyOnPhone"
+  },
+  {
+    "field_id": "00105",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentMiddle"
+  },
+  {
+    "field_id": "00106",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Flight Details"
+  },
+  {
+    "field_id": "00107",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00108",
+    "version": "0001",
+    "attribute": "densityAware",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00108",
+    "version": "0001",
+    "attribute": "height",
+    "grouping": "Properties",
+    "value": "32px"
+  },
+  {
+    "field_id": "00108",
+    "version": "0001",
+    "attribute": "src",
+    "grouping": "Properties",
+    "value": "/neptune/server/images/nsball.png"
+  },
+  {
+    "field_id": "00109",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "addDetailPage"
+  },
+  {
+    "field_id": "00110",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Items"
+  },
+  {
+    "field_id": "00111",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Data updated"
+  },
+  {
+    "field_id": "00112",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Items"
+  },
+  {
+    "field_id": "00119",
+    "version": "0001",
+    "attribute": "expandable",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00119",
+    "version": "0001",
+    "attribute": "expanded",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00119",
+    "version": "0001",
+    "attribute": "headerText",
+    "grouping": "Properties",
+    "value": "Airline"
+  },
+  {
+    "field_id": "00121",
+    "version": "0001",
+    "attribute": "autoAdjustWidth",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00121",
+    "version": "0001",
+    "attribute": "change",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00121",
+    "version": "0001",
+    "attribute": "selectedKey",
+    "grouping": "Properties",
+    "value": "{WA_SELECT-CARR_ID}"
+  },
+  {
+    "field_id": "00121",
+    "version": "0001",
+    "attribute": "setInitLoad",
+    "grouping": "Model",
+    "value": "online"
+  },
+  {
+    "field_id": "00122",
+    "version": "0001",
+    "attribute": "ajaxError",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00122",
+    "version": "0001",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00123",
+    "version": "0001",
+    "attribute": "active",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00123",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "time:HH:mm"
+  },
+  {
+    "field_id": "00123",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{WA_FLIGHT_DETAIL-DEPTIME}"
+  },
+  {
+    "field_id": "00123",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Departure Time"
+  },
+  {
+    "field_id": "00124",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "time:HH:mm"
+  },
+  {
+    "field_id": "00124",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{WA_FLIGHT_DETAIL-ARRTIME}"
+  },
+  {
+    "field_id": "00124",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Arrival Time"
+  },
+  {
+    "field_id": "00125",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Plane Type"
+  },
+  {
+    "field_id": "00126",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{WA_ADDITIONAL_INFO-PLANETYPE}"
+  },
+  {
+    "field_id": "00127",
+    "version": "0001",
+    "attribute": "columnsM",
+    "grouping": "Properties",
+    "value": "2"
+  },
+  {
+    "field_id": "00127",
+    "version": "0001",
+    "attribute": "labelSpanM",
+    "grouping": "Properties",
+    "value": "4"
+  },
+  {
+    "field_id": "00127",
+    "version": "0001",
+    "attribute": "layout",
+    "grouping": "Properties",
+    "value": "ResponsiveGridLayout"
+  },
+  {
+    "field_id": "00127",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Available Seats"
+  },
+  {
+    "field_id": "00128",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "First"
+  },
+  {
+    "field_id": "00129",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{WA_AVAILABILITY-FIRSTFREE}"
+  },
+  {
+    "field_id": "00130",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Business"
+  },
+  {
+    "field_id": "00131",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{WA_AVAILABILITY-BUSINFREE}"
+  },
+  {
+    "field_id": "00132",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Economy"
+  },
+  {
+    "field_id": "00133",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{WA_AVAILABILITY-ECONOFREE}"
+  },
+  {
+    "field_id": "00135",
+    "version": "0001",
+    "attribute": "growing",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00135",
+    "version": "0001",
+    "attribute": "growingScrollToLoad",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00135",
+    "version": "0001",
+    "attribute": "growingThreshold",
+    "grouping": "Properties",
+    "value": "100"
+  },
+  {
+    "field_id": "00135",
+    "version": "0001",
+    "attribute": "growingTriggerText",
+    "grouping": "Properties",
+    "value": "Loading more bookings"
+  },
+  {
+    "field_id": "00135",
+    "version": "0001",
+    "attribute": "headerText",
+    "grouping": "Properties",
+    "value": "Bookings"
+  },
+  {
+    "field_id": "00135",
+    "version": "0001",
+    "attribute": "noDataText",
+    "grouping": "Properties",
+    "value": "No bookings"
+  },
+  {
+    "field_id": "00136",
+    "version": "0001",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Phone"
+  },
+  {
+    "field_id": "00136",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "ID"
+  },
+  {
+    "field_id": "00137",
+    "version": "0001",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Phone"
+  },
+  {
+    "field_id": "00137",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "No."
+  },
+  {
+    "field_id": "00138",
+    "version": "0001",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Phone"
+  },
+  {
+    "field_id": "00138",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Book.date"
+  },
+  {
+    "field_id": "00139",
+    "version": "0001",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Phone"
+  },
+  {
+    "field_id": "00139",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Passenger"
+  },
+  {
+    "field_id": "00140",
+    "version": "0001",
+    "attribute": "hAlign",
+    "grouping": "Properties",
+    "value": "Right"
+  },
+  {
+    "field_id": "00140",
+    "version": "0001",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Tablet"
+  },
+  {
+    "field_id": "00140",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Weight"
+  },
+  {
+    "field_id": "00141",
+    "version": "0001",
+    "attribute": "hAlign",
+    "grouping": "Properties",
+    "value": "Right"
+  },
+  {
+    "field_id": "00141",
+    "version": "0001",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Tablet"
+  },
+  {
+    "field_id": "00141",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Amount"
+  },
+  {
+    "field_id": "00142",
+    "version": "0001",
+    "attribute": "hAlign",
+    "grouping": "Properties",
+    "value": "Center"
+  },
+  {
+    "field_id": "00142",
+    "version": "0001",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Tablet"
+  },
+  {
+    "field_id": "00142",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Type"
+  },
+  {
+    "field_id": "00143",
+    "version": "0001",
+    "attribute": "hAlign",
+    "grouping": "Properties",
+    "value": "Center"
+  },
+  {
+    "field_id": "00143",
+    "version": "0001",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Desktop"
+  },
+  {
+    "field_id": "00143",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Smoker"
+  },
+  {
+    "field_id": "00144",
+    "version": "0001",
+    "attribute": "hAlign",
+    "grouping": "Properties",
+    "value": "Center"
+  },
+  {
+    "field_id": "00144",
+    "version": "0001",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Desktop"
+  },
+  {
+    "field_id": "00144",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Class"
+  },
+  {
+    "field_id": "00145",
+    "version": "0001",
+    "attribute": "hAlign",
+    "grouping": "Properties",
+    "value": "Center"
+  },
+  {
+    "field_id": "00145",
+    "version": "0001",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Desktop"
+  },
+  {
+    "field_id": "00145",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Cancelled"
+  },
+  {
+    "field_id": "00147",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-CARRID}"
+  },
+  {
+    "field_id": "00148",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-CONNID}"
+  },
+  {
+    "field_id": "00149",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "date:dd.MM.yyyy"
+  },
+  {
+    "field_id": "00149",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-ORDER_DATE}"
+  },
+  {
+    "field_id": "00150",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-PASSNAME}"
+  },
+  {
+    "field_id": "00151",
+    "version": "0001",
+    "attribute": "number",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-LUGGWEIGHT}"
+  },
+  {
+    "field_id": "00151",
+    "version": "0001",
+    "attribute": "numberUnit",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-WUNIT}"
+  },
+  {
+    "field_id": "00152",
+    "version": "0001",
+    "attribute": "number",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-LOCCURAM}"
+  },
+  {
+    "field_id": "00152",
+    "version": "0001",
+    "attribute": "numberUnit",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-LOCCURKEY}"
+  },
+  {
+    "field_id": "00153",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-CUSTTYPE}"
+  },
+  {
+    "field_id": "00154",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-SMOKER}"
+  },
+  {
+    "field_id": "00155",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-CLASS}"
+  },
+  {
+    "field_id": "00156",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{IT_SBOOK-CANCELLED}"
+  },
+  {
+    "field_id": "00157",
+    "version": "0001",
+    "attribute": "description",
+    "grouping": "Properties",
+    "value": "Please check another airline"
+  },
+  {
+    "field_id": "00157",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://flight"
+  },
+  {
+    "field_id": "00157",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "addDetailPage"
+  },
+  {
+    "field_id": "00157",
+    "version": "0001",
+    "attribute": "showHeader",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00157",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "No flights found"
+  },
+  {
+    "field_id": "00158",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "addDetailPage"
+  },
+  {
+    "field_id": "00159",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00163",
+    "version": "0001",
+    "attribute": "customIcon",
+    "grouping": "Properties",
+    "value": "sap-icon://check-availability"
+  },
+  {
+    "field_id": "00163",
+    "version": "0001",
+    "attribute": "showCloseButton",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00163",
+    "version": "0001",
+    "attribute": "showIcon",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00163",
+    "version": "0001",
+    "attribute": "type",
+    "grouping": "Properties",
+    "value": "None"
+  },
+  {
+    "field_id": "00165",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "SideContent"
+  },
+  {
+    "field_id": "00166",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "MainContent"
+  },
+  {
+    "field_id": "00168",
+    "version": "0001",
+    "attribute": "active",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00168",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "HeaderToolbar"
+  },
+  {
+    "field_id": "00169",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://group-2"
+  },
+  {
+    "field_id": "00169",
+    "version": "0001",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00172",
+    "version": "0001",
+    "attribute": "liveChange",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00172",
+    "version": "0001",
+    "attribute": "placeholder",
+    "grouping": "Properties",
+    "value": "Passenger"
+  },
+  {
+    "field_id": "00172",
+    "version": "0001",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "200px"
+  },
+  {
+    "field_id": "00174",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Seats Available"
+  },
+  {
+    "field_id": "00175",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "No Economy seats available"
+  },
+  {
+    "field_id": "00176",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "No Business seats available"
+  },
+  {
+    "field_id": "00177",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "No First Class seats available"
+  },
+  {
+    "field_id": "00178",
+    "version": "0001",
+    "attribute": "Button1",
+    "grouping": "Properties",
+    "value": "CLOSE"
+  },
+  {
+    "field_id": "00178",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Please generate Flight data model by running report SAPBC_DATA_GENERATOR (SE38)"
+  },
+  {
+    "field_id": "00178",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "No Flight Data Model"
+  }
+]
